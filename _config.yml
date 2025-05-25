@@ -1,2 +1,10 @@
-theme: jekyll-theme-minimal
-title: Stephen's homepage
+title: Stephen Ma
+description: "Personal website and portfolio"
+url: "https://stema373.github.io"
+
+# Theme
+theme: minima
+
+# Social links
+social_links:
+  github: stema373
