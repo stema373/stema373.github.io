@@ -1,15 +1,26 @@
 # Stephen Ma's Personal Website
 
-Welcome to my personal website and portfolio.
+Welcome to my personal website and portfolio, built with Jekyll and hosted on GitHub Pages.
 
 ## Features
 
-- Responsive design that works on mobile, tablet, and desktop
-- Blog posts with categories and tags
-- Project showcase
-- About page with professional information
-- Contact information and social media links
-- Dark/light mode support
+- Clean, responsive design using the minima theme
+- Project showcase with detailed technical information
+- Contact information and professional links
+- Blog-ready structure with _posts directory
+
+## Pages
+
+- **Home**: Introduction and overview
+- **Projects**: Showcase of my work, including a full-stack Todo List application
+- **Contact**: Professional contact information and social links
+
+## Development
+
+This site is built using:
+- Jekyll
+- GitHub Pages
+- Minima theme
 
 ## Contributing
 
