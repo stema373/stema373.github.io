@@ -1,7 +1,6 @@
 ---
-title: "Welcome"
 layout: home
-author_profile: true
+title: Welcome
 ---
 
 ## Hi, I'm Stephen Ma
