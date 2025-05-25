@@ -1,10 +1,16 @@
-# Stephen's Github Page
+# Stephen Ma's Personal Website
 
-Welcome to my personal website.
+Welcome to my personal website and portfolio.
 
-## About
+## Features
 
-This site serves as a portfolio and central hub for my personal projects.
+- Responsive design that works on mobile, tablet, and desktop
+- Blog posts with categories and tags
+- Project showcase
+- About page with professional information
+- Contact information and social media links
+- Dark/light mode support
 
-- [Projects](./projects)
-- [Contact](./contact)
+## Contributing
+
+Feel free to open issues or submit pull requests for any improvements or bug fixes.
