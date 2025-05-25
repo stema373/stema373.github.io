@@ -6,24 +6,23 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 # Theme settings
 theme: minima
 
 # Site Author
-author:
-  name: Stephen Ma
-  email: sma9765625@gmail.com
+author: Stephen Ma
+email: sma9765625@gmail.com
 
 # Social media
 github_username: stema373
 linkedin_username: stephenma888
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Site Footer
 footer:
