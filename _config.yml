@@ -57,3 +57,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+exclude:
+  - README.md
