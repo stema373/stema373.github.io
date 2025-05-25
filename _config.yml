@@ -18,17 +18,12 @@ theme: minima
 
 # Site Author
 author:
-  name: "Stephen Ma"
-  bio: "Software Developer and Technology Enthusiast"
-  location: "United States"
-  email: "sma9765625@gmail.com"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/stema373"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/stephenma888"
+  name: Stephen Ma
+  email: sma9765625@gmail.com
+
+# Social media
+github_username: stema373
+linkedin_username: stephenma888
 
 # Site Footer
 footer:

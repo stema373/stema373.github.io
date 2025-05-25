@@ -1,41 +1,43 @@
 ---
-title: "Projects"
+layout: page
+title: Projects
 permalink: /projects/
-layout: single
-author_profile: true
 ---
 
-## Featured Projects
+## Todo List Application
+A modern, full-stack todo list application with robust features and secure authentication.
 
-### Todo List Application
-A modern, full-stack todo list application with robust features and secure authentication
-
-**Tech Stack:** 
+**Tech Stack:**
 - **Frontend:**
-    - React 18
-    - TypeScript
-    - React Router v6 for navigation
-    - Styled Components for styling
-    - Axios for API requests
-    - Firebase Authentication
-    - FirebaseUI for authentication UI
+  - React 18 with TypeScript
+  - React Router v6 for navigation
+  - Axios for API requests
+  - Firebase Authentication
 - **Backend:**
-    - Express.js
-    - PostgreSQL database
-    - Prisma ORM
-    - Firebase Admin SDK
-    - TypeScript
-    - JWT for authentication
-    - CORS enabled
+  - Express.js server
+  - PostgreSQL database
+  - Prisma ORM for database operations
+  - JWT for secure authentication
 
 **Key Features:**
 - Secure user authentication (Email/Password)
 - Complete CRUD operations for tasks
-- Dark/Light theme toggle
+- Dark/Light theme support
 - Real-time updates
-- Secure data storage
+- Secure data storage and transmission
+- Responsive design for all devices
 
-[View Project](https://stema373.github.io/todo-list) | [GitHub Repository](https://github.com/stema373/todo-list)
+**Project Links:**
+- [GitHub Repository](https://github.com/stema373/todo-list)
+
+**Project Setup:**
+To run this project locally:
+1. Clone the repository
+2. Set up the PostgreSQL database
+3. Configure environment variables
+4. Install dependencies and run both frontend and backend servers
+
+Detailed setup instructions can be found in the project's README.
 
 ## Collaboration
 

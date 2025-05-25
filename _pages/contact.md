@@ -1,11 +1,10 @@
 ---
-title: "Contact"
+layout: page
+title: Contact
 permalink: /contact/
-layout: single
-author_profile: true
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 I'm always open to discussing new projects, creative ideas, or opportunities.
 
