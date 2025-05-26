@@ -28,7 +28,7 @@ A modern, full-stack todo list application with robust features and secure authe
 - Responsive design for all devices
 
 **Project Links:**
-- [Project Documentation](https://stema373.github.io/todo-list)
+- [Live Demo](https://stema373.github.io/todo-list)
 - [GitHub Repository](https://github.com/stema373/todo-list)
 
 **Project Setup:**
